@@ -28,6 +28,7 @@
 			<Item Name="Validate JSON file.vi" Type="VI" URL="../source/Validate JSON file.vi"/>
 			<Item Name="Validate JSON String.vi" Type="VI" URL="../source/Validate JSON String.vi"/>
 		</Item>
+		<Item Name="Compare Topologies.vi" Type="VI" URL="../source/Compare Topologies.vi"/>
 		<Item Name="Create All Topologies.vi" Type="VI" URL="../source/Create All Topologies.vi"/>
 		<Item Name="Create and Test Single Topology.vi" Type="VI" URL="../source/Create and Test Single Topology.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
