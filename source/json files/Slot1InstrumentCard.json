@@ -1,0 +1,1293 @@
+{
+	"name": "Slot1InstrumentCard",
+	"initialState": {
+		"open": [
+			"Slot1_Ch0K0",
+			"Slot1_Ch0K1",
+			"Slot1_Ch0K2",
+			"Slot1_Ch0K3",
+			"Slot1_Ch0K4",
+			"Slot1_Ch0K5",
+			"Slot1_Ch0K6",
+			"Slot1_Ch0K7",
+			"Slot1_Ch1K0",
+			"Slot1_Ch1K1",
+			"Slot1_Ch1K2",
+			"Slot1_Ch1K3",
+			"Slot1_Ch1K4",
+			"Slot1_Ch1K5",
+			"Slot1_Ch1K6",
+			"Slot1_Ch1K7",
+			"Slot1_Ch2K0",
+			"Slot1_Ch2K1",
+			"Slot1_Ch2K2",
+			"Slot1_Ch2K3",
+			"Slot1_Ch2K4",
+			"Slot1_Ch2K5",
+			"Slot1_Ch2K6",
+			"Slot1_Ch2K7",
+			"Slot1_Ch3K0",
+			"Slot1_Ch3K1",
+			"Slot1_Ch3K2",
+			"Slot1_Ch3K3",
+			"Slot1_Ch3K4",
+			"Slot1_Ch3K5",
+			"Slot1_Ch3K6",
+			"Slot1_Ch3K7",
+			"Slot1_Ch4K0",
+			"Slot1_Ch4K1",
+			"Slot1_Ch4K2",
+			"Slot1_Ch4K3",
+			"Slot1_Ch4K4",
+			"Slot1_Ch4K5",
+			"Slot1_Ch4K6",
+			"Slot1_Ch4K7",
+			"Slot1_Ch5K0",
+			"Slot1_Ch5K1",
+			"Slot1_Ch5K2",
+			"Slot1_Ch5K3",
+			"Slot1_Ch5K4",
+			"Slot1_Ch5K5",
+			"Slot1_Ch5K6",
+			"Slot1_Ch5K7",
+			"Slot1_Ch6K0",
+			"Slot1_Ch6K1",
+			"Slot1_Ch6K2",
+			"Slot1_Ch6K3",
+			"Slot1_Ch6K4",
+			"Slot1_Ch6K5",
+			"Slot1_Ch6K6",
+			"Slot1_Ch6K7",
+			"Slot1_Ch7K0",
+			"Slot1_Ch7K1",
+			"Slot1_Ch7K2",
+			"Slot1_Ch7K3",
+			"Slot1_Ch7K4",
+			"Slot1_Ch7K5",
+			"Slot1_Ch7K6",
+			"Slot1_Ch7K7",
+			"Slot1_Ch8K0",
+			"Slot1_Ch8K1",
+			"Slot1_Ch8K2",
+			"Slot1_Ch8K3",
+			"Slot1_Ch8K4",
+			"Slot1_Ch8K5",
+			"Slot1_Ch8K6",
+			"Slot1_Ch8K7",
+			"Slot1_Ch9K0",
+			"Slot1_Ch9K1",
+			"Slot1_Ch9K2",
+			"Slot1_Ch9K3",
+			"Slot1_Ch9K4",
+			"Slot1_Ch9K5",
+			"Slot1_Ch9K6",
+			"Slot1_Ch9K7",
+			"Slot1_Ch10K0",
+			"Slot1_Ch10K1",
+			"Slot1_Ch10K2",
+			"Slot1_Ch10K3",
+			"Slot1_Ch10K4",
+			"Slot1_Ch10K5",
+			"Slot1_Ch10K6",
+			"Slot1_Ch10K7",
+			"Slot1_Ch11K0",
+			"Slot1_Ch11K1",
+			"Slot1_Ch11K2",
+			"Slot1_Ch11K3",
+			"Slot1_Ch11K4",
+			"Slot1_Ch11K5",
+			"Slot1_Ch11K6",
+			"Slot1_Ch11K7",
+			"Slot1_Ch12K0",
+			"Slot1_Ch12K1",
+			"Slot1_Ch12K2",
+			"Slot1_Ch12K3",
+			"Slot1_Ch12K4",
+			"Slot1_Ch12K5",
+			"Slot1_Ch12K6",
+			"Slot1_Ch12K7",
+			"Slot1_Ch13K0",
+			"Slot1_Ch13K1",
+			"Slot1_Ch13K2",
+			"Slot1_Ch13K3",
+			"Slot1_Ch13K4",
+			"Slot1_Ch13K5",
+			"Slot1_Ch13K6",
+			"Slot1_Ch13K7",
+			"Slot1_Ch14K0",
+			"Slot1_Ch14K1",
+			"Slot1_Ch14K2",
+			"Slot1_Ch14K3",
+			"Slot1_Ch14K4",
+			"Slot1_Ch14K5",
+			"Slot1_Ch14K6",
+			"Slot1_Ch14K7",
+			"Slot1_Ch15K0",
+			"Slot1_Ch15K1",
+			"Slot1_Ch15K2",
+			"Slot1_Ch15K3",
+			"Slot1_Ch15K4",
+			"Slot1_Ch15K5",
+			"Slot1_Ch15K6",
+			"Slot1_Ch15K7",
+			"Slot1_CardK0",
+			"Slot1_CardK1",
+			"Slot1_CardK2",
+			"Slot1_CardK3",
+			"Slot1_CardK4",
+			"Slot1_CardK5",
+			"Slot1_CardK6",
+			"Slot1_CardK7",
+			"Slot1_CardK8",
+			"Slot1_CardK9",
+			"Slot1_CardK10",
+			"Slot1_CardK11",
+			"Slot1_CardK12",
+			"Slot1_CardK13",
+			"Slot1_CardK14",
+			"Slot1_CardK15",
+			"Slot1_CardK16",
+			"Slot1_CardK17",
+			"Slot1_CardK18",
+			"Slot1_CardK19",
+			"Slot1_CardK20",
+			"Slot1_CardK21",
+			"Slot1_CardK22",
+			"Slot1_CardK23",
+			"Slot1_CardK24",
+			"Slot1_CardK25",
+			"Slot1_CardK26",
+			"Slot1_CardK27",
+			"Slot1_CardK28",
+			"Slot1_CardK29",
+			"Slot1_CardK30",
+			"Slot1_CardK31",
+			"Slot1_CardK32",
+			"Slot1_CardK33",
+			"Slot1_CardK34",
+			"Slot1_CardK35",
+			"Slot1_CardK36",
+			"Slot1_CardK37",
+			"Slot1_CardK38",
+			"Slot1_CardK39",
+			"Slot1_CardK40",
+			"Slot1_CardK41",
+			"Slot1_CardK42",
+			"Slot1_CardK43",
+			"Slot1_CardK44",
+			"Slot1_CardK45",
+			"Slot1_CardK46",
+			"Slot1_CardK47",
+			"Slot1_CardK48",
+			"Slot1_CardK49",
+			"Slot1_CardK50",
+			"Slot1_CardK51",
+			"Slot1_CardK52",
+			"Slot1_CardK53",
+			"Slot1_CardK54",
+			"Slot1_CardK55",
+			"Slot1_CardK56",
+			"Slot1_CardK57",
+			"Slot1_CardK58",
+			"Slot1_CardK59",
+			"Slot1_CardK60",
+			"Slot1_CardK61",
+			"Slot1_CardK62",
+			"Slot1_CardK63"
+		],
+		"close": []
+	},
+	"channelList": {
+		"names": []
+	},
+	"connectionList": [
+		{
+			"src": "J1Ch0p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch0K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch0p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch0K0",
+				"Slot1_Ch0K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch0p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch0K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch0p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch0K0",
+				"Slot1_Ch0K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch0n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch0K2",
+				"Slot1_Ch0K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch0n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch0K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch0n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch0K2",
+				"Slot1_Ch0K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch0n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch0K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch1p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch1K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch1p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch1K0",
+				"Slot1_Ch1K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch1p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch1K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch1p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch1K0",
+				"Slot1_Ch1K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch1n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch1K2",
+				"Slot1_Ch1K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch1n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch1K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch1n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch1K2",
+				"Slot1_Ch1K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch1n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch1K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch2p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch2K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch2p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch2K0",
+				"Slot1_Ch2K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch2p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch2K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch2p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch2K0",
+				"Slot1_Ch2K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch2n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch2K2",
+				"Slot1_Ch2K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch2n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch2K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch2n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch2K2",
+				"Slot1_Ch2K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch2n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch2K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch3p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch3K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch3p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch3K0",
+				"Slot1_Ch3K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch3p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch3K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch3p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch3K0",
+				"Slot1_Ch3K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch3n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch3K2",
+				"Slot1_Ch3K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch3n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch3K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch3n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch3K2",
+				"Slot1_Ch3K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch3n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch3K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch4p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch4K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch4p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch4K0",
+				"Slot1_Ch4K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch4p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch4K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch4p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch4K0",
+				"Slot1_Ch4K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch4n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch4K2",
+				"Slot1_Ch4K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch4n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch4K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch4n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch4K2",
+				"Slot1_Ch4K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch4n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch4K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch5p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch5K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch5p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch5K0",
+				"Slot1_Ch5K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch5p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch5K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch5p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch5K0",
+				"Slot1_Ch5K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch5n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch5K2",
+				"Slot1_Ch5K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch5n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch5K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch5n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch5K2",
+				"Slot1_Ch5K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch5n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch5K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch6p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch6K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch6p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch6K0",
+				"Slot1_Ch6K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch6p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch6K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch6p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch6K0",
+				"Slot1_Ch6K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch6n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch6K2",
+				"Slot1_Ch6K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch6n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch6K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch6n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch6K2",
+				"Slot1_Ch6K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch6n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch6K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch7p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch7K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch7p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch7K0",
+				"Slot1_Ch7K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch7p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch7K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch7p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch7K0",
+				"Slot1_Ch7K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch7n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch7K2",
+				"Slot1_Ch7K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch7n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch7K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch7n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch7K2",
+				"Slot1_Ch7K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch7n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch7K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch8p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch8K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch8p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch8K0",
+				"Slot1_Ch8K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch8p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch8K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch8p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch8K0",
+				"Slot1_Ch8K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch8n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch8K2",
+				"Slot1_Ch8K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch8n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch8K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch8n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch8K2",
+				"Slot1_Ch8K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch8n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch8K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch9p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch9K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch9p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch9K0",
+				"Slot1_Ch9K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch9p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch9K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch9p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch9K0",
+				"Slot1_Ch9K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch9n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch9K2",
+				"Slot1_Ch9K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch9n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch9K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch9n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch9K2",
+				"Slot1_Ch9K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch9n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch9K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch10p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch10K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch10p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch10K0",
+				"Slot1_Ch10K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch10p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch10K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch10p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch10K0",
+				"Slot1_Ch10K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch10n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch10K2",
+				"Slot1_Ch10K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch10n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch10K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch10n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch10K2",
+				"Slot1_Ch10K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch10n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch10K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch11p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch11K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch11p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch11K0",
+				"Slot1_Ch11K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch11p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch11K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch11p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch11K0",
+				"Slot1_Ch11K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch11n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch11K2",
+				"Slot1_Ch11K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch11n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch11K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch11n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch11K2",
+				"Slot1_Ch11K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch11n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch11K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch12p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch12K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch12p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch12K0",
+				"Slot1_Ch12K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch12p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch12K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch12p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch12K0",
+				"Slot1_Ch12K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch12n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch12K2",
+				"Slot1_Ch12K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch12n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch12K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch12n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch12K2",
+				"Slot1_Ch12K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch12n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch12K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch13p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch13K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch13p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch13K0",
+				"Slot1_Ch13K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch13p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch13K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch13p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch13K0",
+				"Slot1_Ch13K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch13n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch13K2",
+				"Slot1_Ch13K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch13n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch13K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch13n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch13K2",
+				"Slot1_Ch13K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch13n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch13K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch14p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch14K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch14p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch14K0",
+				"Slot1_Ch14K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch14p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch14K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch14p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch14K0",
+				"Slot1_Ch14K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch14n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch14K2",
+				"Slot1_Ch14K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch14n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch14K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch14n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch14K2",
+				"Slot1_Ch14K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch14n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch14K2",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch15p",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch15K0",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch15p",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch15K0",
+				"Slot1_Ch15K1",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch15p",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch15K0",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch15p",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch15K0",
+				"Slot1_Ch15K1",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch15n",
+			"dest": "XJ3Inst0p",
+			"relays": [
+				"Slot1_Ch15K2",
+				"Slot1_Ch15K3",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch15n",
+			"dest": "XJ3Inst0n",
+			"relays": [
+				"Slot1_Ch15K2",
+				"Slot1_CardK0"
+			]
+		},
+		{
+			"src": "J1Ch15n",
+			"dest": "XJ3Inst1p",
+			"relays": [
+				"Slot1_Ch15K2",
+				"Slot1_Ch15K3",
+				"Slot1_CardK1"
+			]
+		},
+		{
+			"src": "J1Ch15n",
+			"dest": "XJ3Inst1n",
+			"relays": [
+				"Slot1_Ch15K2",
+				"Slot1_CardK1"
+			]
+		}
+	]
+}

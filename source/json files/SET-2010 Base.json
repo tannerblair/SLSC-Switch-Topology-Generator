@@ -1,0 +1,8274 @@
+{
+  "switchesSpecVersion": 1,
+  "switchesSpecOldestCompatibleVersion": 1,
+  "relays": [
+    {
+      "name": "Base_Ch0p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch0p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch0n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch0n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch1p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch1p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch1n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch1n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch2p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch2p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch2n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch2n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch3p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch3p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch3n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch3n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch4p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch4p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch4n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch4n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch5p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch5p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch5n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch5n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch6p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch6p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch6n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch6n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch7p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch7p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch7n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch7n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch8p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch8p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch8n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch8n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch9p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch9p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch9n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch9n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch10p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch10p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch10n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch10n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch11p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch11p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch11n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch11n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch12p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch12p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch12n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch12n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch13p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch13p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch13n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch13n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch14p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch14p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch14n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch14n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch15p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch15p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch15n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch15n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch16p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch16p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch16n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch16n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch17p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch17p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch17n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch17n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch18p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch18p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch18n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch18n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch19p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch19p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch19n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch19n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch20p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch20p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch20n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch20n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch21p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch21p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch21n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch21n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch22p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch22p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch22n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch22n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch23p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch23p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch23n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch23n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch24p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch24p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch24n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch24n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch25p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch25p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch25n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch25n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch26p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch26p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch26n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch26n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch27p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch27p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch27n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch27n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch28p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch28p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch28n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch28n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch29p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch29p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch29n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch29n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch30p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch30p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch30n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch30n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch31p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch31p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch31n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch31n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch0_16p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch0_16p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch0_16n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch0_16n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch1_17p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch1_17p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch1_17n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch1_17n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch2_18p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch2_18p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch2_18n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch2_18n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch3_19p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch3_19p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch3_19n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch3_19n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch4_20p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch4_20p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch4_20n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch4_20n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch5_21p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch5_21p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch5_21n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch5_21n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch6_22p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch6_22p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch6_22n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch6_22n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch7_23p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch7_23p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch7_23n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch7_23n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch8_24p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch8_24p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch8_24n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch8_24n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch9_25p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch9_25p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch9_25n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch9_25n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch10_26p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch10_26p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch10_26n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch10_26n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch11_27p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch11_27p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch11_27n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch11_27n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch12_28p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch12_28p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch12_28n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch12_28n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch13_29p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch13_29p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch13_29n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch13_29n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch14_30p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch14_30p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch14_30n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch14_30n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch15_31p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch15_31p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ch15_31n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ch15_31n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_RefInst0p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.RefInst0p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_RefInst0n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.RefInst0n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_RefInst1p",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.RefInst1p"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_RefInst1n",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.RefInst1n"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_RefFaultCon",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.RefFaultCon"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_RefFaultSel0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.RefFaultSel0"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_RefFaultSel1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.RefFaultSel1"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ref0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ref0"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Base_Ref1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Base",
+          "value": "SET.Base.Ref1"
+        },
+        {
+          "type": "command",
+          "resource": "Base",
+          "value": "SET.Base.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch0K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch0K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch1K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch1K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch2K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch2K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch3K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch3K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch4K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch4K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch5K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch5K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch6K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch6K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch7K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch7K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch8K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch8K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch9K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch9K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch10K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch10K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch11K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch11K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch12K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch12K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch13K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch13K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch14K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch14K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_Ch15K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Ch15K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK8",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK8"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK9",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK9"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK10",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK10"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK11",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK11"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK12",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK12"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK13",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK13"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK14",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK14"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK15",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK15"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK16",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK16"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK17",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK17"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK18",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK18"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK19",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK19"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK20",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK20"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK21",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK21"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK22",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK22"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK23",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK23"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK24",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK24"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK25",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK25"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK26",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK26"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK27",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK27"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK28",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK28"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK29",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK29"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK30",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK30"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK31",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK31"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK32",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK32"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK33",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK33"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK34",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK34"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK35",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK35"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK36",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK36"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK37",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK37"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK38",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK38"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK39",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK39"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK40",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK40"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK41",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK41"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK42",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK42"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK43",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK43"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK44",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK44"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK45",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK45"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK46",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK46"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK47",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK47"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK48",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK48"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK49",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK49"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK50",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK50"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK51",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK51"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK52",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK52"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK53",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK53"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK54",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK54"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK55",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK55"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK56",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK56"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK57",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK57"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK58",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK58"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK59",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK59"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK60",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK60"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK61",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK61"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK62",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK62"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot1_CardK63",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot1",
+          "value": "SET.Slot1.CardK63"
+        },
+        {
+          "type": "command",
+          "resource": "Slot1",
+          "value": "SET.Slot1.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch0K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch0K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch1K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch1K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch2K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch2K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch3K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch3K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch4K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch4K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch5K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch5K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch6K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch6K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch7K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch7K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch8K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch8K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch9K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch9K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch10K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch10K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch11K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch11K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch12K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch12K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch13K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch13K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch14K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch14K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_Ch15K7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Ch15K7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK0",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK0"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK1",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK1"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK2",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK2"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK3",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK3"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK4",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK4"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK5",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK5"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK6",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK6"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK7",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK7"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK8",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK8"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK9",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK9"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK10",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK10"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK11",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK11"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK12",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK12"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK13",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK13"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK14",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK14"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK15",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK15"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK16",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK16"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK17",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK17"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK18",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK18"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK19",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK19"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK20",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK20"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK21",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK21"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK22",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK22"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK23",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK23"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK24",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK24"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK25",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK25"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK26",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK26"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK27",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK27"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK28",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK28"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK29",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK29"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK30",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK30"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK31",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK31"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK32",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK32"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK33",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK33"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK34",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK34"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK35",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK35"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK36",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK36"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK37",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK37"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK38",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK38"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK39",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK39"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK40",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK40"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK41",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK41"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK42",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK42"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK43",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK43"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK44",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK44"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK45",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK45"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK46",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK46"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK47",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK47"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK48",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK48"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK49",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK49"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK50",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK50"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK51",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK51"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK52",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK52"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK53",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK53"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK54",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK54"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK55",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK55"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK56",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK56"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK57",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK57"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK58",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK58"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK59",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK59"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK60",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK60"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK61",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK61"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK62",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK62"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    },
+    {
+      "name": "Slot2_CardK63",
+      "actions": [
+        {
+          "type": "property",
+          "resource": "Slot2",
+          "value": "SET.Slot2.CardK63"
+        },
+        {
+          "type": "command",
+          "resource": "Slot2",
+          "value": "SET.Slot2.Commit"
+        }
+      ]
+    }
+  ],
+  "multiStateRelays": [],
+  "topologies": [
+    {
+      "name": "SET_2010_Base",
+      "initialState": {
+        "open": [
+          "Base_Ch0p",
+          "Base_Ch0n",
+          "Base_Ch1p",
+          "Base_Ch1n",
+          "Base_Ch2p",
+          "Base_Ch2n",
+          "Base_Ch3p",
+          "Base_Ch3n",
+          "Base_Ch4p",
+          "Base_Ch4n",
+          "Base_Ch5p",
+          "Base_Ch5n",
+          "Base_Ch6p",
+          "Base_Ch6n",
+          "Base_Ch7p",
+          "Base_Ch7n",
+          "Base_Ch8p",
+          "Base_Ch8n",
+          "Base_Ch9p",
+          "Base_Ch9n",
+          "Base_Ch10p",
+          "Base_Ch10n",
+          "Base_Ch11p",
+          "Base_Ch11n",
+          "Base_Ch12p",
+          "Base_Ch12n",
+          "Base_Ch13p",
+          "Base_Ch13n",
+          "Base_Ch14p",
+          "Base_Ch14n",
+          "Base_Ch15p",
+          "Base_Ch15n",
+          "Base_Ch16p",
+          "Base_Ch16n",
+          "Base_Ch17p",
+          "Base_Ch17n",
+          "Base_Ch18p",
+          "Base_Ch18n",
+          "Base_Ch19p",
+          "Base_Ch19n",
+          "Base_Ch20p",
+          "Base_Ch20n",
+          "Base_Ch21p",
+          "Base_Ch21n",
+          "Base_Ch22p",
+          "Base_Ch22n",
+          "Base_Ch23p",
+          "Base_Ch23n",
+          "Base_Ch24p",
+          "Base_Ch24n",
+          "Base_Ch25p",
+          "Base_Ch25n",
+          "Base_Ch26p",
+          "Base_Ch26n",
+          "Base_Ch27p",
+          "Base_Ch27n",
+          "Base_Ch28p",
+          "Base_Ch28n",
+          "Base_Ch29p",
+          "Base_Ch29n",
+          "Base_Ch30p",
+          "Base_Ch30n",
+          "Base_Ch31p",
+          "Base_Ch31n",
+          "Base_Ch0_16p",
+          "Base_Ch0_16n",
+          "Base_Ch1_17p",
+          "Base_Ch1_17n",
+          "Base_Ch2_18p",
+          "Base_Ch2_18n",
+          "Base_Ch3_19p",
+          "Base_Ch3_19n",
+          "Base_Ch4_20p",
+          "Base_Ch4_20n",
+          "Base_Ch5_21p",
+          "Base_Ch5_21n",
+          "Base_Ch6_22p",
+          "Base_Ch6_22n",
+          "Base_Ch7_23p",
+          "Base_Ch7_23n",
+          "Base_Ch8_24p",
+          "Base_Ch8_24n",
+          "Base_Ch9_25p",
+          "Base_Ch9_25n",
+          "Base_Ch10_26p",
+          "Base_Ch10_26n",
+          "Base_Ch11_27p",
+          "Base_Ch11_27n",
+          "Base_Ch12_28p",
+          "Base_Ch12_28n",
+          "Base_Ch13_29p",
+          "Base_Ch13_29n",
+          "Base_Ch14_30p",
+          "Base_Ch14_30n",
+          "Base_Ch15_31p",
+          "Base_Ch15_31n",
+          "Base_RefInst0p",
+          "Base_RefInst0n",
+          "Base_RefInst1p",
+          "Base_RefInst1n",
+          "Base_RefFaultCon",
+          "Base_RefFaultSel0",
+          "Base_RefFaultSel1",
+          "Base_Ref0",
+          "Base_Ref1"
+        ],
+        "close": [
+        ]
+      },
+      "channelList": {
+        "names": [
+          "J1Ch0p",
+          "J1Ch0n",
+          "J1Ch1p",
+          "J1Ch1n",
+          "J1Ch2p",
+          "J1Ch2n",
+          "J1Ch3p",
+          "J1Ch3n",
+          "J1Ch4p",
+          "J1Ch4n",
+          "J1Ch5p",
+          "J1Ch5n",
+          "J1Ch6p",
+          "J1Ch6n",
+          "J1Ch7p",
+          "J1Ch7n",
+          "J1Ch8p",
+          "J1Ch8n",
+          "J1Ch9p",
+          "J1Ch9n",
+          "J1Ch10p",
+          "J1Ch10n",
+          "J1Ch11p",
+          "J1Ch11n",
+          "J1Ch12p",
+          "J1Ch12n",
+          "J1Ch13p",
+          "J1Ch13n",
+          "J1Ch14p",
+          "J1Ch14n",
+          "J1Ch15p",
+          "J1Ch15n",
+          "J1Ref0",
+          "J2Ch16p",
+          "J2Ch16n",
+          "J2Ch17p",
+          "J2Ch17n",
+          "J2Ch18p",
+          "J2Ch18n",
+          "J2Ch19p",
+          "J2Ch19n",
+          "J2Ch20p",
+          "J2Ch20n",
+          "J2Ch21p",
+          "J2Ch21n",
+          "J2Ch22p",
+          "J2Ch22n",
+          "J2Ch23p",
+          "J2Ch23n",
+          "J2Ch24p",
+          "J2Ch24n",
+          "J2Ch25p",
+          "J2Ch25n",
+          "J2Ch26p",
+          "J2Ch26n",
+          "J2Ch27p",
+          "J2Ch27n",
+          "J2Ch28p",
+          "J2Ch28n",
+          "J2Ch29p",
+          "J2Ch29n",
+          "J2Ch30p",
+          "J2Ch30n",
+          "J2Ch31p",
+          "J2Ch31n",
+          "J2Ref1",
+          "XJ2Ch0p",
+          "XJ2Ch0n",
+          "XJ2Ch1p",
+          "XJ2Ch1n",
+          "XJ2Ch2p",
+          "XJ2Ch2n",
+          "XJ2Ch3p",
+          "XJ2Ch3n",
+          "XJ2Ch4p",
+          "XJ2Ch4n",
+          "XJ2Ch5p",
+          "XJ2Ch5n",
+          "XJ2Ch6p",
+          "XJ2Ch6n",
+          "XJ2Ch7p",
+          "XJ2Ch7n",
+          "XJ2Ch8p",
+          "XJ2Ch8n",
+          "XJ2Ch9p",
+          "XJ2Ch9n",
+          "XJ2Ch10p",
+          "XJ2Ch10n",
+          "XJ2Ch11p",
+          "XJ2Ch11n",
+          "XJ2Ch12p",
+          "XJ2Ch12n",
+          "XJ2Ch13p",
+          "XJ2Ch13n",
+          "XJ2Ch14p",
+          "XJ2Ch14n",
+          "XJ2Ch15p",
+          "XJ2Ch15n",
+          "XJ2Ch16p",
+          "XJ2Ch16n",
+          "XJ2Ch17p",
+          "XJ2Ch17n",
+          "XJ2Ch18p",
+          "XJ2Ch18n",
+          "XJ2Ch19p",
+          "XJ2Ch19n",
+          "XJ2Ch20p",
+          "XJ2Ch20n",
+          "XJ2Ch21p",
+          "XJ2Ch21n",
+          "XJ2Ch22p",
+          "XJ2Ch22n",
+          "XJ2Ch23p",
+          "XJ2Ch23n",
+          "XJ2Ch24p",
+          "XJ2Ch24n",
+          "XJ2Ch25p",
+          "XJ2Ch25n",
+          "XJ2Ch26p",
+          "XJ2Ch26n",
+          "XJ2Ch27p",
+          "XJ2Ch27n",
+          "XJ2Ch28p",
+          "XJ2Ch28n",
+          "XJ2Ch29p",
+          "XJ2Ch29n",
+          "XJ2Ch30p",
+          "XJ2Ch30n",
+          "XJ2Ch31p",
+          "XJ2Ch31n",
+          "XJ3Inst0p",
+          "XJ3Inst0n",
+          "XJ3Inst1p",
+          "XJ3Inst1n",
+          "XJ3FaultA",
+          "XJ3FaultB",
+          "XJ3FaultC",
+          "XJ3FaultD"
+        ]
+      },
+      "connectionList": [
+        {
+          "src": "J1Ch0p",
+          "dest": "XJ2Ch0p",
+          "relays": [
+            "Base_Ch0p"
+          ]
+        },
+        {
+          "src": "J1Ch0n",
+          "dest": "XJ2Ch0n",
+          "relays": [
+            "Base_Ch0n"
+          ]
+        },
+        {
+          "src": "J1Ch1p",
+          "dest": "XJ2Ch1p",
+          "relays": [
+            "Base_Ch1p"
+          ]
+        },
+        {
+          "src": "J1Ch1n",
+          "dest": "XJ2Ch1n",
+          "relays": [
+            "Base_Ch1n"
+          ]
+        },
+        {
+          "src": "J1Ch2p",
+          "dest": "XJ2Ch2p",
+          "relays": [
+            "Base_Ch2p"
+          ]
+        },
+        {
+          "src": "J1Ch2n",
+          "dest": "XJ2Ch2n",
+          "relays": [
+            "Base_Ch2n"
+          ]
+        },
+        {
+          "src": "J1Ch3p",
+          "dest": "XJ2Ch3p",
+          "relays": [
+            "Base_Ch3p"
+          ]
+        },
+        {
+          "src": "J1Ch3n",
+          "dest": "XJ2Ch3n",
+          "relays": [
+            "Base_Ch3n"
+          ]
+        },
+        {
+          "src": "J1Ch4p",
+          "dest": "XJ2Ch4p",
+          "relays": [
+            "Base_Ch4p"
+          ]
+        },
+        {
+          "src": "J1Ch4n",
+          "dest": "XJ2Ch4n",
+          "relays": [
+            "Base_Ch4n"
+          ]
+        },
+        {
+          "src": "J1Ch5p",
+          "dest": "XJ2Ch5p",
+          "relays": [
+            "Base_Ch5p"
+          ]
+        },
+        {
+          "src": "J1Ch5n",
+          "dest": "XJ2Ch5n",
+          "relays": [
+            "Base_Ch5n"
+          ]
+        },
+        {
+          "src": "J1Ch6p",
+          "dest": "XJ2Ch6p",
+          "relays": [
+            "Base_Ch6p"
+          ]
+        },
+        {
+          "src": "J1Ch6n",
+          "dest": "XJ2Ch6n",
+          "relays": [
+            "Base_Ch6n"
+          ]
+        },
+        {
+          "src": "J1Ch7p",
+          "dest": "XJ2Ch7p",
+          "relays": [
+            "Base_Ch7p"
+          ]
+        },
+        {
+          "src": "J1Ch7n",
+          "dest": "XJ2Ch7n",
+          "relays": [
+            "Base_Ch7n"
+          ]
+        },
+        {
+          "src": "J1Ch8p",
+          "dest": "XJ2Ch8p",
+          "relays": [
+            "Base_Ch8p"
+          ]
+        },
+        {
+          "src": "J1Ch8n",
+          "dest": "XJ2Ch8n",
+          "relays": [
+            "Base_Ch8n"
+          ]
+        },
+        {
+          "src": "J1Ch9p",
+          "dest": "XJ2Ch9p",
+          "relays": [
+            "Base_Ch9p"
+          ]
+        },
+        {
+          "src": "J1Ch9n",
+          "dest": "XJ2Ch9n",
+          "relays": [
+            "Base_Ch9n"
+          ]
+        },
+        {
+          "src": "J1Ch10p",
+          "dest": "XJ2Ch10p",
+          "relays": [
+            "Base_Ch10p"
+          ]
+        },
+        {
+          "src": "J1Ch10n",
+          "dest": "XJ2Ch10n",
+          "relays": [
+            "Base_Ch10n"
+          ]
+        },
+        {
+          "src": "J1Ch11p",
+          "dest": "XJ2Ch11p",
+          "relays": [
+            "Base_Ch11p"
+          ]
+        },
+        {
+          "src": "J1Ch11n",
+          "dest": "XJ2Ch11n",
+          "relays": [
+            "Base_Ch11n"
+          ]
+        },
+        {
+          "src": "J1Ch12p",
+          "dest": "XJ2Ch12p",
+          "relays": [
+            "Base_Ch12p"
+          ]
+        },
+        {
+          "src": "J1Ch12n",
+          "dest": "XJ2Ch12n",
+          "relays": [
+            "Base_Ch12n"
+          ]
+        },
+        {
+          "src": "J1Ch13p",
+          "dest": "XJ2Ch13p",
+          "relays": [
+            "Base_Ch13p"
+          ]
+        },
+        {
+          "src": "J1Ch13n",
+          "dest": "XJ2Ch13n",
+          "relays": [
+            "Base_Ch13n"
+          ]
+        },
+        {
+          "src": "J1Ch14p",
+          "dest": "XJ2Ch14p",
+          "relays": [
+            "Base_Ch14p"
+          ]
+        },
+        {
+          "src": "J1Ch14n",
+          "dest": "XJ2Ch14n",
+          "relays": [
+            "Base_Ch14n"
+          ]
+        },
+        {
+          "src": "J1Ch15p",
+          "dest": "XJ2Ch15p",
+          "relays": [
+            "Base_Ch15p"
+          ]
+        },
+        {
+          "src": "J1Ch15n",
+          "dest": "XJ2Ch15n",
+          "relays": [
+            "Base_Ch15n"
+          ]
+        },
+        {
+          "src": "J2Ch16p",
+          "dest": "XJ2Ch16p",
+          "relays": [
+            "Base_Ch16p"
+          ]
+        },
+        {
+          "src": "J2Ch16n",
+          "dest": "XJ2Ch16n",
+          "relays": [
+            "Base_Ch16n"
+          ]
+        },
+        {
+          "src": "J2Ch17p",
+          "dest": "XJ2Ch17p",
+          "relays": [
+            "Base_Ch17p"
+          ]
+        },
+        {
+          "src": "J2Ch17n",
+          "dest": "XJ2Ch17n",
+          "relays": [
+            "Base_Ch17n"
+          ]
+        },
+        {
+          "src": "J2Ch18p",
+          "dest": "XJ2Ch18p",
+          "relays": [
+            "Base_Ch18p"
+          ]
+        },
+        {
+          "src": "J2Ch18n",
+          "dest": "XJ2Ch18n",
+          "relays": [
+            "Base_Ch18n"
+          ]
+        },
+        {
+          "src": "J2Ch19p",
+          "dest": "XJ2Ch19p",
+          "relays": [
+            "Base_Ch19p"
+          ]
+        },
+        {
+          "src": "J2Ch19n",
+          "dest": "XJ2Ch19n",
+          "relays": [
+            "Base_Ch19n"
+          ]
+        },
+        {
+          "src": "J2Ch20p",
+          "dest": "XJ2Ch20p",
+          "relays": [
+            "Base_Ch20p"
+          ]
+        },
+        {
+          "src": "J2Ch20n",
+          "dest": "XJ2Ch20n",
+          "relays": [
+            "Base_Ch20n"
+          ]
+        },
+        {
+          "src": "J2Ch21p",
+          "dest": "XJ2Ch21p",
+          "relays": [
+            "Base_Ch21p"
+          ]
+        },
+        {
+          "src": "J2Ch21n",
+          "dest": "XJ2Ch21n",
+          "relays": [
+            "Base_Ch21n"
+          ]
+        },
+        {
+          "src": "J2Ch22p",
+          "dest": "XJ2Ch22p",
+          "relays": [
+            "Base_Ch22p"
+          ]
+        },
+        {
+          "src": "J2Ch22n",
+          "dest": "XJ2Ch22n",
+          "relays": [
+            "Base_Ch22n"
+          ]
+        },
+        {
+          "src": "J2Ch23p",
+          "dest": "XJ2Ch23p",
+          "relays": [
+            "Base_Ch23p"
+          ]
+        },
+        {
+          "src": "J2Ch23n",
+          "dest": "XJ2Ch23n",
+          "relays": [
+            "Base_Ch23n"
+          ]
+        },
+        {
+          "src": "J2Ch24p",
+          "dest": "XJ2Ch24p",
+          "relays": [
+            "Base_Ch24p"
+          ]
+        },
+        {
+          "src": "J2Ch24n",
+          "dest": "XJ2Ch24n",
+          "relays": [
+            "Base_Ch24n"
+          ]
+        },
+        {
+          "src": "J2Ch25p",
+          "dest": "XJ2Ch25p",
+          "relays": [
+            "Base_Ch25p"
+          ]
+        },
+        {
+          "src": "J2Ch25n",
+          "dest": "XJ2Ch25n",
+          "relays": [
+            "Base_Ch25n"
+          ]
+        },
+        {
+          "src": "J2Ch26p",
+          "dest": "XJ2Ch26p",
+          "relays": [
+            "Base_Ch26p"
+          ]
+        },
+        {
+          "src": "J2Ch26n",
+          "dest": "XJ2Ch26n",
+          "relays": [
+            "Base_Ch26n"
+          ]
+        },
+        {
+          "src": "J2Ch27p",
+          "dest": "XJ2Ch27p",
+          "relays": [
+            "Base_Ch27p"
+          ]
+        },
+        {
+          "src": "J2Ch27n",
+          "dest": "XJ2Ch27n",
+          "relays": [
+            "Base_Ch27n"
+          ]
+        },
+        {
+          "src": "J2Ch28p",
+          "dest": "XJ2Ch28p",
+          "relays": [
+            "Base_Ch28p"
+          ]
+        },
+        {
+          "src": "J2Ch28n",
+          "dest": "XJ2Ch28n",
+          "relays": [
+            "Base_Ch28n"
+          ]
+        },
+        {
+          "src": "J2Ch29p",
+          "dest": "XJ2Ch29p",
+          "relays": [
+            "Base_Ch29p"
+          ]
+        },
+        {
+          "src": "J2Ch29n",
+          "dest": "XJ2Ch29n",
+          "relays": [
+            "Base_Ch29n"
+          ]
+        },
+        {
+          "src": "J2Ch30p",
+          "dest": "XJ2Ch30p",
+          "relays": [
+            "Base_Ch30p"
+          ]
+        },
+        {
+          "src": "J2Ch30n",
+          "dest": "XJ2Ch30n",
+          "relays": [
+            "Base_Ch30n"
+          ]
+        },
+        {
+          "src": "J2Ch31p",
+          "dest": "XJ2Ch31p",
+          "relays": [
+            "Base_Ch31p"
+          ]
+        },
+        {
+          "src": "J2Ch31n",
+          "dest": "XJ2Ch31n",
+          "relays": [
+            "Base_Ch31n"
+          ]
+        },
+        {
+          "src": "J1Ch0p",
+          "dest": "J2Ch16p",
+          "relays": [
+            "Base_Ch0_16p"
+          ]
+        },
+        {
+          "src": "J1Ch0n",
+          "dest": "J2Ch16n",
+          "relays": [
+            "Base_Ch0_16n"
+          ]
+        },
+        {
+          "src": "J1Ch1p",
+          "dest": "J2Ch17p",
+          "relays": [
+            "Base_Ch1_17p"
+          ]
+        },
+        {
+          "src": "J1Ch1n",
+          "dest": "J2Ch17n",
+          "relays": [
+            "Base_Ch1_17n"
+          ]
+        },
+        {
+          "src": "J1Ch2p",
+          "dest": "J2Ch18p",
+          "relays": [
+            "Base_Ch2_18p"
+          ]
+        },
+        {
+          "src": "J1Ch2n",
+          "dest": "J2Ch18n",
+          "relays": [
+            "Base_Ch2_18n"
+          ]
+        },
+        {
+          "src": "J1Ch3p",
+          "dest": "J2Ch19p",
+          "relays": [
+            "Base_Ch3_19p"
+          ]
+        },
+        {
+          "src": "J1Ch3n",
+          "dest": "J2Ch19n",
+          "relays": [
+            "Base_Ch3_19n"
+          ]
+        },
+        {
+          "src": "J1Ch4p",
+          "dest": "J2Ch20p",
+          "relays": [
+            "Base_Ch4_20p"
+          ]
+        },
+        {
+          "src": "J1Ch4n",
+          "dest": "J2Ch20n",
+          "relays": [
+            "Base_Ch4_20n"
+          ]
+        },
+        {
+          "src": "J1Ch5p",
+          "dest": "J2Ch21p",
+          "relays": [
+            "Base_Ch5_21p"
+          ]
+        },
+        {
+          "src": "J1Ch5n",
+          "dest": "J2Ch21n",
+          "relays": [
+            "Base_Ch5_21n"
+          ]
+        },
+        {
+          "src": "J1Ch6p",
+          "dest": "J2Ch22p",
+          "relays": [
+            "Base_Ch6_22p"
+          ]
+        },
+        {
+          "src": "J1Ch6n",
+          "dest": "J2Ch22n",
+          "relays": [
+            "Base_Ch6_22n"
+          ]
+        },
+        {
+          "src": "J1Ch7p",
+          "dest": "J2Ch23p",
+          "relays": [
+            "Base_Ch7_23p"
+          ]
+        },
+        {
+          "src": "J1Ch7n",
+          "dest": "J2Ch23n",
+          "relays": [
+            "Base_Ch7_23n"
+          ]
+        },
+        {
+          "src": "J1Ch8p",
+          "dest": "J2Ch24p",
+          "relays": [
+            "Base_Ch8_24p"
+          ]
+        },
+        {
+          "src": "J1Ch8n",
+          "dest": "J2Ch24n",
+          "relays": [
+            "Base_Ch8_24n"
+          ]
+        },
+        {
+          "src": "J1Ch9p",
+          "dest": "J2Ch25p",
+          "relays": [
+            "Base_Ch9_25p"
+          ]
+        },
+        {
+          "src": "J1Ch9n",
+          "dest": "J2Ch25n",
+          "relays": [
+            "Base_Ch9_25n"
+          ]
+        },
+        {
+          "src": "J1Ch10p",
+          "dest": "J2Ch26p",
+          "relays": [
+            "Base_Ch10_26p"
+          ]
+        },
+        {
+          "src": "J1Ch10n",
+          "dest": "J2Ch26n",
+          "relays": [
+            "Base_Ch10_26n"
+          ]
+        },
+        {
+          "src": "J1Ch11p",
+          "dest": "J2Ch27p",
+          "relays": [
+            "Base_Ch11_27p"
+          ]
+        },
+        {
+          "src": "J1Ch11n",
+          "dest": "J2Ch27n",
+          "relays": [
+            "Base_Ch11_27n"
+          ]
+        },
+        {
+          "src": "J1Ch12p",
+          "dest": "J2Ch28p",
+          "relays": [
+            "Base_Ch12_28p"
+          ]
+        },
+        {
+          "src": "J1Ch12n",
+          "dest": "J2Ch28n",
+          "relays": [
+            "Base_Ch12_28n"
+          ]
+        },
+        {
+          "src": "J1Ch13p",
+          "dest": "J2Ch29p",
+          "relays": [
+            "Base_Ch13_29p"
+          ]
+        },
+        {
+          "src": "J1Ch13n",
+          "dest": "J2Ch29n",
+          "relays": [
+            "Base_Ch13_29n"
+          ]
+        },
+        {
+          "src": "J1Ch14p",
+          "dest": "J2Ch30p",
+          "relays": [
+            "Base_Ch14_30p"
+          ]
+        },
+        {
+          "src": "J1Ch14n",
+          "dest": "J2Ch30n",
+          "relays": [
+            "Base_Ch14_30n"
+          ]
+        },
+        {
+          "src": "J1Ch15p",
+          "dest": "J2Ch31p",
+          "relays": [
+            "Base_Ch15_31p"
+          ]
+        },
+        {
+          "src": "J1Ch15n",
+          "dest": "J2Ch31n",
+          "relays": [
+            "Base_Ch15_31n"
+          ]
+        }
+      ]
+    }
+  ]
+}
