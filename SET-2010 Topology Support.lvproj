@@ -17,6 +17,7 @@
 			<Item Name="Add Slot JSON to Base JSON.vi" Type="VI" URL="../source/Add Slot JSON to Base JSON.vi"/>
 			<Item Name="Append JSON File.vi" Type="VI" URL="../source/Append JSON File.vi"/>
 			<Item Name="Apply Module Selection.vi" Type="VI" URL="../source/Apply Module Selection.vi"/>
+			<Item Name="Compare Topologies.vi" Type="VI" URL="../source/Compare Topologies.vi"/>
 			<Item Name="Create New JSON File.vi" Type="VI" URL="../source/Create New JSON File.vi"/>
 			<Item Name="Create Output File Name.vi" Type="VI" URL="../source/Create Output File Name.vi"/>
 			<Item Name="Get Card Name.vi" Type="VI" URL="../source/Get Card Name.vi"/>
@@ -28,9 +29,9 @@
 			<Item Name="Validate JSON file.vi" Type="VI" URL="../source/Validate JSON file.vi"/>
 			<Item Name="Validate JSON String.vi" Type="VI" URL="../source/Validate JSON String.vi"/>
 		</Item>
-		<Item Name="Compare Topologies.vi" Type="VI" URL="../source/Compare Topologies.vi"/>
+		<Item Name="Compare Topologies UI.vi" Type="VI" URL="../source/Compare Topologies UI.vi"/>
 		<Item Name="Create All Topologies.vi" Type="VI" URL="../source/Create All Topologies.vi"/>
-		<Item Name="Create and Test Single Topology.vi" Type="VI" URL="../source/Create and Test Single Topology.vi"/>
+		<Item Name="Create and Compare Single Topology.vi" Type="VI" URL="../source/Create and Compare Single Topology.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
